@@ -1,0 +1,1 @@
+In react disabled is a boolean, if it is true it is disabled if it is false it is enabled.

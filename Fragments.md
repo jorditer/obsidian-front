@@ -1,0 +1,1 @@
+Currently used as `<></>` But if you need to pass a key you need to use `<Fragment key={whatevs}` explicitly, imports from `import { Fragment } from 'react';`
